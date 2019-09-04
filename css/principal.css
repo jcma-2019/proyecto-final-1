@@ -1,0 +1,60 @@
+*{
+  margin: 3px;
+  padding: 0px;
+  background-color: #00008B;
+
+ }
+
+ a:link
+ {
+ text-decoration:none;
+ }
+
+ div#header
+ {
+   width: 100%;
+   height: 190px;
+ }
+
+div#body
+{
+  width: 100%;
+  height:355px;
+  color:white;
+}
+
+div#footer
+{
+  width: 100%;
+  height: 50px;
+}
+
+select
+{
+ background: white;
+ border: none;
+ font-size: 14px;
+ height: 30px;
+ padding: 5px;
+ width: 50px;
+}
+Option
+{
+  font-family: Verdana,Arial;
+  font-size: 12px;
+  background-color: white;
+}
+
+input
+{
+  border-width: 0;
+  background-color:
+  white; outline: none;
+}
+
+textarea
+{
+    font-family:Monaco,Georgia,Times,serif;
+    color: white;
+    height: 60px;
+}
